@@ -24,4 +24,4 @@ fn get_text(location: &str) -> String{
     file.read_to_string(&mut content).unwrap();
     content
 
-}
+} 
